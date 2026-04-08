@@ -1,1 +1,1 @@
-Sam+çe repository to test webflash ESPC3 with a blink example
+Sample repository to test webflash ESPC3 with a blink example
